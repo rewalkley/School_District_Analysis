@@ -17,16 +17,17 @@ The goal is to determine fund allocation to the schools based on performance.
   * After removing the 9th grade scores, Thomas High school dropped completely out of the Top 5 performing schools
 
 * Math and Reading Scores by Grade are not affected other than changing 9th grade at Thomas High to "NaN":
-  * ![image](https://user-images.githubusercontent.com/80076110/114345894-28c61780-9b28-11eb-8237-525c7fbe6d88.png)
-* Scores by school spending changed in the range Thlmas High falls into, the $630-$644 per student spending range. The Average Math and Acerage Reading scores dropped lsighlty, however the overall pasing dropped from 63% to 56%
-  * Prior to Excluding 9th Grade: ![image](https://user-images.githubusercontent.com/80076110/114346413-0e406e00-9b29-11eb-82b0-6b9de5627e12.png)
-  * After Excluding 9th Grade: ![image](https://user-images.githubusercontent.com/80076110/114346431-17c9d600-9b29-11eb-8272-f692230e53bc.png)
-* Again, very insignificant changes to the Math and Reading scores for both school size and type, but Overall percentage dropped for both in the Medium and Charter size and type schools, respectively:
-  * ![image](https://user-images.githubusercontent.com/80076110/114346719-873fc580-9b29-11eb-81db-5e73b3b66ace.png)
-  * ![image](https://user-images.githubusercontent.com/80076110/114346736-8dce3d00-9b29-11eb-9837-4f0bae6f6ac6.png)
+  * ![Scores_by_grade](https://user-images.githubusercontent.com/80076110/114347764-1a2d2f80-9b2b-11eb-85d2-13de12675517.png)
 
-  * ![image](https://user-images.githubusercontent.com/80076110/114346794-a0487680-9b29-11eb-80fa-80b2e65c4c8a.png)
-  * ![image](https://user-images.githubusercontent.com/80076110/114346811-a76f8480-9b29-11eb-80d2-ca1bed25a02a.png)
+* Scores by school spending changed in the range Thlmas High falls into, the $630-$644 per student spending range. The Average Math and Acerage Reading scores dropped lsighlty, however the overall pasing dropped from 63% to 56%
+  * Prior to Excluding 9th Grade: ![scores_by_spending_all](https://user-images.githubusercontent.com/80076110/114347838-3f21a280-9b2b-11eb-86c7-1c2e2438ab3f.png)
+
+  * After Excluding 9th Grade: ![scores_by_spending_10-12](https://user-images.githubusercontent.com/80076110/114347936-68423300-9b2b-11eb-96f8-bbc036acc0c4.png)
+
+* Again, very insignificant changes to the Math and Reading scores for both school size and type, but Overall percentage dropped for both in the Medium and Charter size and type schools, respectively:
+
+http://localhost:8889/notebooks/School_District_Analysis/PyCitySchools_Challenge.ipynb
+
 
 ## Summary
 
